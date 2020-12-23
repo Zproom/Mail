@@ -1,0 +1,32 @@
+textarea {
+    min-height: 400px;
+}
+
+.email {
+    display: block;
+    border: solid black;
+    border-width: 0.5px;
+    padding: 10px;
+    height: 70px;
+}
+
+.email-content {
+    display: block;
+}
+
+strong {
+    float: left;
+}
+
+#email-subject {
+    display: inline;
+    margin-left: 20px;
+}
+
+#email-timestamp {
+    float: right;
+}
+
+#reply {
+    margin-right: 4px;
+}
